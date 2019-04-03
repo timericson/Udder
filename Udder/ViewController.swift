@@ -18,5 +18,9 @@ class ViewController: UIViewController {
         // hello
     }
 
+    override func viewDidDisappear(_ animated: Bool) {
+        // hey
+    }
+    
 }
 
